@@ -1,7 +1,7 @@
 # Whip DOS(Denial Of Service attack tool)<br>
 Coder by fatih keleş (Turkiye)
 
-<strong<i>>Usage:<strong><i><br>
+<strong><i>Usage : <strong><i><br>
 <li><i>git clone https://www.github.com/fatihkeeles/whip</li>
 <li><i>cd whip<i></li>
 <li><i>python3 whip.py<i></li><br>
