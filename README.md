@@ -1,4 +1,4 @@
-# Whip DOS(Denial Of Service attack tool)<br>
+# Whip DOS (Denial Of Service attack tool)<br>
 # Creator fatih keleş (Turkiye)<br>
 
 <strong><i>Usage : <strong><i><br>
