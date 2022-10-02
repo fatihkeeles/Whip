@@ -1,5 +1,5 @@
 # Whip DOS(Denial Of Service attack tool)<br>
-Coder by fatih keleş (Turkiye)
+# Creator fatih keleş (Turkiye)<br>
 
 <strong><i>Usage : <strong><i><br>
 <li><i>git clone https://www.github.com/fatihkeeles/whip</li>
