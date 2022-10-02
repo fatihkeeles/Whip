@@ -10,3 +10,7 @@ parameters:<br>
 -h, --help : Help message.<br>
 -H, --host : Target Host<br>
 -p, --port : target port (default : 80)<br>
+
+
+whip is a dos attack tool. So what is a dos attack?<br>
+https://en.wikipedia.org/wiki/Denial-of-service_attack
