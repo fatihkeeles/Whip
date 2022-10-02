@@ -2,9 +2,9 @@
 Coder by fatih keleş (Turkiye)
 
 Usage:<br>
-git clone https://www.github.com/fatihkeeles/whip<br>
-cd whip<br>
-python3 whip.py
+<li>git clone https://www.github.com/fatihkeeles/whip<li><br>
+<li>cd whip<li><br>
+<li>python3 whip.py<li>
 
 parameters:<br>
 -h, --help : Help message.<br>
