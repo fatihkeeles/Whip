@@ -13,5 +13,5 @@ parameters:<br>
 
 
 whip is a dos attack tool. So what is a dos attack?<br>
-<strong>Denial of Service attack (DOD) wikipedia<strong><br>
+<strong><i>Denial of Service attack (DOD) wikipedia : <i><strong><br>
 https://en.wikipedia.org/wiki/Denial-of-service_attack
