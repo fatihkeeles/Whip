@@ -2,11 +2,11 @@
 Coder by fatih keleş (Turkiye)
 
 Usage:<br>
-<li><i>git clone https://www.github.com/fatihkeeles/whip</li><br>
+<li><i>git clone https://www.github.com/fatihkeeles/whip</li><
 <li><i>cd whip<i></li>
-<li><i>python3 whip.py<i></li>
+<li><i>python3 whip.py<i></li><br>
 
-parameters:<br>
+<strong><i>parameters : <i><strong><br>
 -h, --help : Help message.<br>
 -H, --host : Target Host<br>
 -p, --port : target port (default : 80)<br>
