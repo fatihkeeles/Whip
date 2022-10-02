@@ -3,6 +3,7 @@ Coder by fatih keleş (Turkiye)
 
 Usage:<br>
 git clone https://www.github.com/fatihkeeles/whip<br>
+cd whip<br>
 python3 whip.py
 
 parameters:<br>
